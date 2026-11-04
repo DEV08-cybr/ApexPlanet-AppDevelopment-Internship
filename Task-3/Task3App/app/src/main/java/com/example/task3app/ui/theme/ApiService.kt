@@ -1,4 +1,4 @@
-package com.example.task3app
+package com.example.task3app.ui.theme
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
